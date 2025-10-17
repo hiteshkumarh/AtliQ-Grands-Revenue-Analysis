@@ -66,8 +66,7 @@ Specific goals included:
 
 ### Data Model
 [cite_start]Five tables were used: 3 dimension tables (`dim_date`, `dim_hotels`, `dim_rooms`) and 2 fact tables (`fact_bookings`, `fact_aggregated_bookings`)[cite: 436]. [cite_start]Relationships were created in Power Pivot to build a robust data model for analysis[cite: 439, 516].
-
-
+![Data modeling ](https://github.com/hiteshkumarh/AtliQ-Grands-Revenue-Analysis/blob/main/Screenshot%20data%20modeling.png)
 
 ### Key Performance Indicators (KPIs) Created
 Several measures were created using DAX to calculate important business metrics:
