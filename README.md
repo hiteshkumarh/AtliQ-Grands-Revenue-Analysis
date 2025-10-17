@@ -24,7 +24,7 @@ Specific goals included:
 ### Data Model
 [cite_start]Five tables were used: 3 dimension tables (`dim_date`, `dim_hotels`, `dim_rooms`) and 2 fact tables (`fact_bookings`, `fact_aggregated_bookings`)[cite: 436]. [cite_start]Relationships were created in Power Pivot to build a robust data model for analysis[cite: 439, 516].
 
-![Data Model](https://github.com/hiteshkumarh/AtliQ-Grands-Revenue-Analysis/assets/173957262/a336338e-0b92-411a-8c85-2e5fbd286f99)
+
 
 
 ### Key Performance Indicators (KPIs) Created
@@ -67,7 +67,6 @@ Specific goals included:
 ### Data Model
 [cite_start]Five tables were used: 3 dimension tables (`dim_date`, `dim_hotels`, `dim_rooms`) and 2 fact tables (`fact_bookings`, `fact_aggregated_bookings`)[cite: 436]. [cite_start]Relationships were created in Power Pivot to build a robust data model for analysis[cite: 439, 516].
 
-![Data Model](https://github.com/hiteshkumarh/AtliQ-Grands-Revenue-Analysis/assets/173957262/a336338e-0b92-411a-8c85-2e5fbd286f99)
 
 
 ### Key Performance Indicators (KPIs) Created
@@ -84,7 +83,7 @@ Several measures were created using DAX to calculate important business metrics:
 ## 5. Revenue Analysis Dashboard
 [cite_start]The final dashboard provides both high-level and granular insights, with interactive filters for Month-Year, City, Booking Platform, and Booking Status[cite: 434, 464, 518].
 
-![Revenue Dashboard](https://github.com/hiteshkumarh/AtliQ-Grands-Revenue-Analysis/assets/173957262/a437fdd3-10e3-4903-87a7-5847e0344d2d).
+![Revenue Dashboard](https://github.com/hiteshkumarh/AtliQ-Grands-Revenue-Analysis/blob/main/Screenshot%20(55).png).
 
 
 ## 6. Business Insights & Outcomes
